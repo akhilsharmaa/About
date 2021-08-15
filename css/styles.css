@@ -1,0 +1,96 @@
+body{
+    color: white;
+    width: auto;    
+    padding: 0%;
+    margin: 0%;
+    background-color: #1b1f24;
+}
+
+.Intro-Container{
+    line-height: 0.3;
+    width: 100%;
+    padding: 0px 0 10px 0;
+    position: relative;
+    display: list-item;
+    background-color: rgb(44, 44, 44);
+}
+
+.Name-Image{
+    line-height: 0.3;
+    height: 60%;
+    text-align: center;
+    padding: 10px 10% 10px 10%;
+    background-color: rgb(255, 81, 81);
+}
+
+
+.Education-Container{
+    width: 100%;
+    padding: 10px 0 10px 0;
+    margin-left : 0px;
+    position: relative;
+    display: list-item;
+    background-color: rgb(48, 49, 49);
+}
+
+h1{     
+    line-height: 0;
+    font-size: 3em;
+}
+
+h2{
+    font-size: 1.8em;
+    line-height: 0;
+    padding: 0;
+
+}
+
+h3{
+    line-height: 0;
+
+}
+
+h4{
+    line-height: 0;
+}
+
+
+#ide-image{
+    height: 100px;  
+}
+
+#graduation-img{
+    position: relative;
+    height: 40px;
+    margin-top: 6px;
+    margin-left: 10px;  
+    padding: 0 0 0 0;
+}
+
+
+#education-h2{
+    margin-left: 60px;
+    position: absolute;
+}
+
+
+
+#project-h2-text{
+    margin-left: 60px;
+    position: absolute;
+}
+
+
+
+#projects-img{
+    position: relative;
+    height: 40px;
+    margin-top: 6px;
+    margin-left: 10px;  
+    padding: 0 0 0 0;
+}
+
+#Sync_with_Class_App{
+    position: relative;
+    margin: 10px;
+}
